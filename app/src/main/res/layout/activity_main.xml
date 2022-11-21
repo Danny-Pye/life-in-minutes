@@ -77,11 +77,10 @@
         android:textAlignment="center" />
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/textMinutesView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:text="151487"
         android:textAlignment="center"
         android:textColor="#D1781F"
         android:textSize="24sp" />
